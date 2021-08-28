@@ -1,0 +1,150 @@
+
+Naive Bayes Classifier
++------+------+------+
+|      | Ham  | Spam |
++------+------+------+
+| Ham  | 1807 |  91  |
+| Spam | 204  | 662  |
++------+------+------+
+Precision : 0.9521
+Recall : 0.8986
+AUC : 0.8572
+F1 score : 0.9245
+Time spent for model : 346.35
+
+
+
+Naive Bayes Classifier
++------+------+------+
+|      | Ham  | Spam |
++------+------+------+
+| Ham  | 2151 | 259  |
+| Spam |  36  | 514  |
++------+------+------+
+Precision : 0.8925
+Recall : 0.9835
+AUC : 0.9113
+F1 score : 0.9358
+Time spent for model : 933.89
+
+
+
+Naive Bayes Classifier
++------+------+------+
+|      | Ham  | Spam |
++------+------+------+
+| Ham  | 2207 | 215  |
+| Spam |  60  | 500  |
++------+------+------+
+Precision : 0.9112
+Recall : 0.9735
+AUC : 0.9074
+F1 score : 0.9414
+Time spent for model : 574.06
+
+
+
+Naive Bayes Classifier
++------+------+------+
+|      | Ham  | Spam |
++------+------+------+
+| Ham  | 1996 | 342  |
+| Spam | 288  | 392  |
++------+------+------+
+Precision : 0.8537
+Recall : 0.8739
+AUC : 0.9453
+F1 score : 0.8637
+Time spent for model : 1491.19
+
+
+
+KNN Classifier
++------+------+------+
+|      | Ham  | Spam |
++------+------+------+
+| Ham  | 1866 | 711  |
+| Spam |  0   |  0   |
++------+------+------+
+Precision : 0.7241
+Recall : 1.0
+AUC : 0.8842
+F1 score : 0.84
+Time spent for model : 4150.44
+
+
+
+KNN Classifier
++------+------+------+
+|      | Ham  | Spam |
++------+------+------+
+| Ham  | 2183 | 744  |
+| Spam |  0   |  0   |
++------+------+------+
+Precision : 0.7458
+Recall : 1.0
+AUC : 0.8868
+F1 score : 0.8544
+Time spent for model : 6413.73
+
+
+
+KNN Classifier
++------+------+------+
+|      | Ham  | Spam |
++------+------+------+
+| Ham  | 2019 | 735  |
+| Spam |  0   |  0   |
++------+------+------+
+Precision : 0.7331
+Recall : 1.0
+AUC : 0.8892
+F1 score : 0.846
+Time spent for model : 12599.24
+
+
+
+KNN Classifier
++------+-----+------+
+|      | Ham | Spam |
++------+-----+------+
+| Ham  | 719 | 278  |
+| Spam |  0  |  3   |
++------+-----+------+
+Precision : 0.7212
+Recall : 1.0
+AUC : 0.992
+F1 score : 0.838
+Time spent for model : 1088.66
+
+
+
+KNN Classifier
++------+-----+------+
+|      | Ham | Spam |
++------+-----+------+
+| Ham  | 760 | 240  |
+| Spam |  0  |  0   |
++------+-----+------+
+Precision : 0.76
+Recall : 1.0
+AUC : 0.9964
+F1 score : 0.8636
+Time spent for model : 2752.06
+
+
+
+KNN Classifier
++------+-----+------+
+|      | Ham | Spam |
++------+-----+------+
+| Ham  | 747 | 253  |
+| Spam |  0  |  0   |
++------+-----+------+
+Precision : 0.747
+Recall : 1.0
+AUC : 0.9965
+F1 score : 0.8552
+Time spent for model : 4881.62
+
+
