@@ -1,0 +1,510 @@
+Polykernel model parameters
+Dimension : 2
+Offset : 0
+Gamma : 1
++------+------+------+
+|      | Ham  | Spam |
++------+------+------+
+| Ham  | 1229 |  20  |
+| Spam |  66  | 443  |
++------+------+------+
+Precision : 0.949
+Recall : 0.984
+AUC : 0.9919
+F1 score : 0.9662
+Time spent for model : 592.28
+
+
+Polykernel model parameters
+Dimension : 2
+Offset : 0
+Gamma : 2
++------+------+------+
+|      | Ham  | Spam |
++------+------+------+
+| Ham  | 1205 |  20  |
+| Spam |  90  | 443  |
++------+------+------+
+Precision : 0.9305
+Recall : 0.9837
+AUC : 0.989
+F1 score : 0.9563
+Time spent for model : 579.91
+
+
+Polykernel model parameters
+Dimension : 2
+Offset : 0
+Gamma : 3
++------+------+------+
+|      | Ham  | Spam |
++------+------+------+
+| Ham  | 1178 |  23  |
+| Spam | 117  | 440  |
++------+------+------+
+Precision : 0.9097
+Recall : 0.9808
+AUC : 0.9843
+F1 score : 0.9439
+Time spent for model : 581.73
+
+
+Polykernel model parameters
+Dimension : 2
+Offset : 2
+Gamma : 1
++------+------+------+
+|      | Ham  | Spam |
++------+------+------+
+| Ham  | 1238 |  22  |
+| Spam |  57  | 441  |
++------+------+------+
+Precision : 0.956
+Recall : 0.9825
+AUC : 0.9922
+F1 score : 0.9691
+Time spent for model : 607.9
+
+
+Polykernel model parameters
+Dimension : 2
+Offset : 2
+Gamma : 2
++------+------+------+
+|      | Ham  | Spam |
++------+------+------+
+| Ham  | 1222 |  24  |
+| Spam |  73  | 439  |
++------+------+------+
+Precision : 0.9436
+Recall : 0.9807
+AUC : 0.9909
+F1 score : 0.9618
+Time spent for model : 572.92
+
+
+Polykernel model parameters
+Dimension : 2
+Offset : 2
+Gamma : 3
++------+------+------+
+|      | Ham  | Spam |
++------+------+------+
+| Ham  | 1230 |  31  |
+| Spam |  65  | 432  |
++------+------+------+
+Precision : 0.9498
+Recall : 0.9754
+AUC : 0.9897
+F1 score : 0.9624
+Time spent for model : 569.02
+
+
+Polykernel model parameters
+Dimension : 2
+Offset : 4
+Gamma : 1
++------+------+------+
+|      | Ham  | Spam |
++------+------+------+
+| Ham  | 1231 |  22  |
+| Spam |  64  | 441  |
++------+------+------+
+Precision : 0.9506
+Recall : 0.9824
+AUC : 0.9926
+F1 score : 0.9662
+Time spent for model : 561.22
+
+
+Polykernel model parameters
+Dimension : 2
+Offset : 4
+Gamma : 2
++------+------+------+
+|      | Ham  | Spam |
++------+------+------+
+| Ham  | 1234 |  26  |
+| Spam |  61  | 437  |
++------+------+------+
+Precision : 0.9529
+Recall : 0.9794
+AUC : 0.9922
+F1 score : 0.9659
+Time spent for model : 569.69
+
+
+Polykernel model parameters
+Dimension : 2
+Offset : 4
+Gamma : 3
++------+------+------+
+|      | Ham  | Spam |
++------+------+------+
+| Ham  | 1242 |  39  |
+| Spam |  53  | 424  |
++------+------+------+
+Precision : 0.9591
+Recall : 0.9696
+AUC : 0.9911
+F1 score : 0.9643
+Time spent for model : 570.62
+
+
+Polykernel model parameters
+Dimension : 2
+Offset : 6
+Gamma : 1
++------+------+------+
+|      | Ham  | Spam |
++------+------+------+
+| Ham  | 1240 |  26  |
+| Spam |  55  | 437  |
++------+------+------+
+Precision : 0.9575
+Recall : 0.9795
+AUC : 0.993
+F1 score : 0.9684
+Time spent for model : 558.81
+
+
+Polykernel model parameters
+Dimension : 2
+Offset : 6
+Gamma : 2
++------+------+------+
+|      | Ham  | Spam |
++------+------+------+
+| Ham  | 1238 |  30  |
+| Spam |  57  | 433  |
++------+------+------+
+Precision : 0.956
+Recall : 0.9763
+AUC : 0.9928
+F1 score : 0.9661
+Time spent for model : 572.32
+
+
+Polykernel model parameters
+Dimension : 2
+Offset : 6
+Gamma : 3
++------+------+------+
+|      | Ham  | Spam |
++------+------+------+
+| Ham  | 1258 |  62  |
+| Spam |  37  | 401  |
++------+------+------+
+Precision : 0.9714
+Recall : 0.953
+AUC : 0.9919
+F1 score : 0.9621
+Time spent for model : 557.9
+
+
+Polykernel model parameters
+Dimension : 3
+Offset : 0
+Gamma : 1
++------+------+------+
+|      | Ham  | Spam |
++------+------+------+
+| Ham  | 1043 |  20  |
+| Spam | 252  | 443  |
++------+------+------+
+Precision : 0.8054
+Recall : 0.9812
+AUC : 0.9635
+F1 score : 0.8846
+Time spent for model : 586.22
+
+
+Polykernel model parameters
+Dimension : 3
+Offset : 0
+Gamma : 2
++------+------+------+
+|      | Ham  | Spam |
++------+------+------+
+| Ham  | 1044 |  33  |
+| Spam | 251  | 430  |
++------+------+------+
+Precision : 0.8062
+Recall : 0.9694
+AUC : 0.9565
+F1 score : 0.8803
+Time spent for model : 580.26
+
+
+Polykernel model parameters
+Dimension : 3
+Offset : 0
+Gamma : 3
++------+------+------+
+|      | Ham  | Spam |
++------+------+------+
+| Ham  | 1237 | 154  |
+| Spam |  58  | 309  |
++------+------+------+
+Precision : 0.9552
+Recall : 0.8893
+AUC : 0.9645
+F1 score : 0.9211
+Time spent for model : 561.58
+
+
+Polykernel model parameters
+Dimension : 3
+Offset : 2
+Gamma : 1
++------+------+------+
+|      | Ham  | Spam |
++------+------+------+
+| Ham  | 1210 |  43  |
+| Spam |  85  | 420  |
++------+------+------+
+Precision : 0.9344
+Recall : 0.9657
+AUC : 0.9845
+F1 score : 0.9498
+Time spent for model : 574.32
+
+
+Polykernel model parameters
+Dimension : 3
+Offset : 2
+Gamma : 2
++------+------+------+
+|      | Ham  | Spam |
++------+------+------+
+| Ham  | 1282 | 291  |
+| Spam |  13  | 172  |
++------+------+------+
+Precision : 0.99
+Recall : 0.815
+AUC : 0.9579
+F1 score : 0.894
+Time spent for model : 560.39
+
+
+Polykernel model parameters
+Dimension : 3
+Offset : 2
+Gamma : 3
++------+------+------+
+|      | Ham  | Spam |
++------+------+------+
+| Ham  | 1287 | 323  |
+| Spam |  8   | 140  |
++------+------+------+
+Precision : 0.9938
+Recall : 0.7994
+AUC : 0.9419
+F1 score : 0.8861
+Time spent for model : 555.36
+
+
+Polykernel model parameters
+Dimension : 3
+Offset : 4
+Gamma : 1
++------+------+------+
+|      | Ham  | Spam |
++------+------+------+
+| Ham  | 1276 | 201  |
+| Spam |  19  | 262  |
++------+------+------+
+Precision : 0.9853
+Recall : 0.8639
+AUC : 0.985
+F1 score : 0.9206
+Time spent for model : 559.85
+
+
+Polykernel model parameters
+Dimension : 3
+Offset : 4
+Gamma : 2
++------+------+------+
+|      | Ham  | Spam |
++------+------+------+
+| Ham  | 1280 | 270  |
+| Spam |  15  | 193  |
++------+------+------+
+Precision : 0.9884
+Recall : 0.8258
+AUC : 0.9576
+F1 score : 0.8998
+Time spent for model : 550.94
+
+
+Polykernel model parameters
+Dimension : 3
+Offset : 4
+Gamma : 3
++------+------+------+
+|      | Ham  | Spam |
++------+------+------+
+| Ham  | 1293 | 401  |
+| Spam |  2   |  62  |
++------+------+------+
+Precision : 0.9985
+Recall : 0.7633
+AUC : 0.9392
+F1 score : 0.8652
+Time spent for model : 556.83
+
+
+Polykernel model parameters
+Dimension : 3
+Offset : 6
+Gamma : 1
++------+------+------+
+|      | Ham  | Spam |
++------+------+------+
+| Ham  | 1260 | 185  |
+| Spam |  35  | 278  |
++------+------+------+
+Precision : 0.973
+Recall : 0.872
+AUC : 0.9794
+F1 score : 0.9197
+Time spent for model : 555.86
+
+
+Polykernel model parameters
+Dimension : 3
+Offset : 6
+Gamma : 2
++------+------+------+
+|      | Ham  | Spam |
++------+------+------+
+| Ham  | 1282 | 288  |
+| Spam |  13  | 175  |
++------+------+------+
+Precision : 0.99
+Recall : 0.8166
+AUC : 0.9594
+F1 score : 0.8949
+Time spent for model : 544.52
+
+
+Polykernel model parameters
+Dimension : 3
+Offset : 6
+Gamma : 3
++------+------+------+
+|      | Ham  | Spam |
++------+------+------+
+| Ham  | 1293 | 407  |
+| Spam |  2   |  56  |
++------+------+------+
+Precision : 0.9985
+Recall : 0.7606
+AUC : 0.9397
+F1 score : 0.8634
+Time spent for model : 553.92
+
+
+Linear model
++------+------+------+
+|      | Ham  | Spam |
++------+------+------+
+| Ham  | 1267 |  27  |
+| Spam |  28  | 436  |
++------+------+------+
+Precision : 0.9784
+Recall : 0.9791
+AUC : 0.9973
+F1 score : 0.9788
+Time spent for model : 522.02
+
+
+Linear model
++------+------+------+
+|      | Ham  | Spam |
++------+------+------+
+| Ham  | 1267 |  27  |
+| Spam |  28  | 436  |
++------+------+------+
+Precision : 0.9784
+Recall : 0.9791
+AUC : 0.9973
+F1 score : 0.9788
+Time spent for model : 526.16
+
+
+Linear model
++------+------+------+
+|      | Ham  | Spam |
++------+------+------+
+| Ham  | 1267 |  27  |
+| Spam |  28  | 436  |
++------+------+------+
+Precision : 0.9784
+Recall : 0.9791
+AUC : 0.9973
+F1 score : 0.9788
+Time spent for model : 528.27
+
+
+Linear model
++------+------+------+
+|      | Ham  | Spam |
++------+------+------+
+| Ham  | 1267 |  27  |
+| Spam |  28  | 436  |
++------+------+------+
+Precision : 0.9784
+Recall : 0.9791
+AUC : 0.9973
+F1 score : 0.9788
+Time spent for model : 522.43
+
+
+rbf model
+Gamma : 1
++------+-----+------+
+|      | Ham | Spam |
++------+-----+------+
+| Ham  | 993 | 104  |
+| Spam | 302 | 359  |
++------+-----+------+
+Precision : 0.7668
+Recall : 0.9052
+AUC : 0.947
+F1 score : 0.8303
+Time spent for model : 1979.05
+
+
+rbf model
+Gamma : 2
++------+------+------+
+|      | Ham  | Spam |
++------+------+------+
+| Ham  | 1275 | 318  |
+| Spam |  20  | 145  |
++------+------+------+
+Precision : 0.9846
+Recall : 0.8004
+AUC : 0.9489
+F1 score : 0.883
+Time spent for model : 1957.03
+
+
+rbf model
+Gamma : 3
++------+------+------+
+|      | Ham  | Spam |
++------+------+------+
+| Ham  | 1291 | 408  |
+| Spam |  4   |  55  |
++------+------+------+
+Precision : 0.9969
+Recall : 0.7599
+AUC : 0.9516
+F1 score : 0.8624
+Time spent for model : 1957.19
+
+
+Time spent for entire code : 21627.33
